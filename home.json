@@ -1,0 +1,18 @@
+{
+    "message": "",
+    "status": 0,
+    "data": {
+        "user": {
+            "id": 1,
+            "name": "Asama",
+            "imageUrl": "assets/images/img_Mask Group 1.png"
+        },
+        "imgs": [
+            "assets/images/img_Mask Group 1.png",
+            "assets/images/img_christian.png",
+            "assets/images/img_Mask@3x.png",
+            "assets/images/img_beautifulkid.jpg",
+            "assets/images/img_laptop.jpg"
+        ]
+    }
+}
