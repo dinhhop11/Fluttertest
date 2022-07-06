@@ -1,0 +1,16 @@
+{
+    "message": "",
+    "status": 0,
+    "data": {
+        "id": 0,
+        "title": "We think, You might like these Pins",
+        "timeago": "30 minutes ago",
+        "imageUrl": [
+            "assets/images/img_notifications1.png",
+            "assets/images/img_notifications2.png",
+            "assets/images/img_notifications3.png",
+            "assets/images/img_notifications4.png",
+            "assets/images/img_notifications5.png"
+        ]
+    }
+}

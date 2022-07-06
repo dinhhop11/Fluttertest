@@ -1,0 +1,28 @@
+{
+    "message": "",
+    "status": 0,
+    "data": {
+        "id": 0,
+        "name": "Jhon Doe",
+        "type": "Car racer",
+        "car": [
+            "assets/images/img_carprofile1.png",
+            "assets/images/img_carprofile2.png",
+            "assets/images/img_carprofile3.png",
+            "assets/images/img_carprofile4.png"
+        ],
+        "carcollections": [
+            "assets/images/img_carprofile1.png",
+            "assets/images/img_carprofile2.png",
+            "assets/images/img_carprofile3.png",
+            "assets/images/img_carprofile4.png"
+        ],
+        "photos": "28",
+        "following": "100",
+        "follower": "2.2m",
+        "avatar": "assets/images/img_julian-wan.png",
+        "coverimg": "assets/images/img_carprofile.png",
+        "time": "10 minutes ago",
+        "label": "Car"
+    }
+}

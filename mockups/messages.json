@@ -1,0 +1,64 @@
+{
+    "message": "",
+    "status": 0,
+    "data": {
+        "list_messages": [
+            {
+                "sender": "Jane Jallow",
+                "time": "5:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": true,
+                "imageUrl": "assets/images/img_mess1.jpg"
+            },
+            {
+                "sender": "Jane Doe",
+                "time": "6:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": false,
+                "imageUrl": "assets/images/img_mess2.jpg"
+            },
+            {
+                "sender": "Jane Doe",
+                "time": "7:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": false,
+                "imageUrl": "assets/images/img_mess2.jpg"
+            },
+            {
+                "sender": "Jane Jallow",
+                "time": "8:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": true,
+                "imageUrl": "assets/images/img_mess1.jpg"
+            },
+            {
+                "sender": "Jane Doe",
+                "time": "9:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": false,
+                "imageUrl": "assets/images/img_mess2.jpg"
+            },
+            {
+                "sender": "Jane Jallow",
+                "time": "9:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": true,
+                "imageUrl": "assets/images/img_mess2.jpg"
+            },
+            {
+                "sender": "Jane Jallow",
+                "time": "9:30 PM",
+                "text": "You're one of Peter's compression plays,\n huh? Uhh, one of? How many does he have…'",
+                "isLiked": false,
+                "unread": true,
+                "imageUrl": "assets/images/img_mess2.jpg"
+            }
+        ]
+    }
+}

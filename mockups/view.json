@@ -1,0 +1,20 @@
+{
+    "message": "",
+    "status": 0,
+    "data": {
+        "user": {
+            "id": 1,
+            "name": "Sam",
+            "imageUrl": "assets/images/img_View_tony.png",
+            "coverImg": "assets/images/img_View_1.png",
+            "text": "Awesome potrait in \n Great Canyon'"
+        },
+        "imgUrlGV": [
+            "assets/images/img_view_more1.png",
+            "assets/images/img_view_more2.png",
+            "assets/images/img_view_more1.png",
+            "assets/images/img_view_more2.png",
+            "assets/images/img_view_more2.png"
+        ]
+    }
+}
